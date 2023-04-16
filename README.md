@@ -1,1 +1,5 @@
-INT213-Scientific-Calculator-CA3
+A scientific calculator is a specialized calculator that can perform advanced mathematical functions and operations in a variety of mathematical fields. C++ is a powerful programming language that is often used to create scientific calculators as it has a wide range of mathematical built-in functions that are essential in the scientific and technical world. 
+
+Creating a scientific calculator with C++ involves building a user interface, processing user input, performing calculations, and displaying the results. The user interface can be built using various libraries and frameworks such as QT, which provides tools and widgets for designing interfaces of various complexity levels.
+
+Once the user interface is designed, the calculator is ready to process user input. C++ provides built-in functions and operators to perform fundamental mathematical operations such as addition, subtraction, multiplication, and division. For advanced mathematical and scientific operations such as trigonometry, logarithms, and exponential functions, C++ provides various standard functions that can be called into the code.
