@@ -1,4 +1,4 @@
-## Scientific Calculator:
+## Scientific Calculator:🖩
 
 A scientific calculator is a specialized tool designed for performing complex mathematical operations and functions. Python is a high-level, powerful, and versatile programming language that offers efficient built-in functions and libraries for developing scientific calculators.
 
